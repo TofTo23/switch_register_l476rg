@@ -22,4 +22,4 @@ Po zwolnieniu przycisku w trybie długim przekaźnik zostaje w ostatnim stanie.
 | Przekaźnik | PA8  | D7 na złączu Arduino, wyjście push-pull         |
 | Dioda      | PA5  | LD2 na płytce                                   |
 
-![](/workspaces/switch_register_l476rg/movie.gif)
+![Interactive presentation](movie.gif)
